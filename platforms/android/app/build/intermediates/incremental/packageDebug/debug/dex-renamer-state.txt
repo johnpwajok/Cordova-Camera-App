@@ -1,0 +1,4 @@
+#Tue Jan 30 11:01:59 EET 2018
+base.0=C\:\\Users\\John\\Documents\\College files\\Camera\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\John\\Documents\\College files\\Camera\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
